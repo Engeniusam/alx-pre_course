@@ -1,0 +1,9 @@
+git pull to be up to date in git
+git push
+clear
+
+q
+:wq
+:wq
+echo git pull > up_to_date
+echo git pull > up_to_date
